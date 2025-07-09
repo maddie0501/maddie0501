@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on: Frontend UI projects with React, Tailwind CSS, and REST API integration  <br>👯 I’m looking to collaborate on: Open-source frontend tools, UI libraries, or beginner-friendly fullstack projects  <br>🤝 I’m looking for help with: Improving SSR/SEO in React apps and optimizing frontend performance <br>🌱 I’m currently learning: Next.js, Backend skills and advanced design systems  <br>💬 Ask me about: React, Tailwind, component architecture, and UI best practices  <br>⚡ Fun fact: I love organizing my code as much as I enjoy organizing playlists 🎧 and into video games..<br>
+# 💫Hey fellow developers I'm Madhuri
+
+Here's a brief overview about me
+🔭 I’m currently working on: Frontend UI projects with React, Tailwind CSS, and REST API integration  <br>👯 I’m looking to collaborate on: Open-source frontend tools, UI libraries, or beginner-friendly fullstack projects  <br>🤝 I’m looking for help with: Improving SSR/SEO and optimizing frontend performance with little bit into backend stack <br>🌱 I’m currently learning: Next.js, Backend skills and system design systems  <br>💬 Ask me about: React, Tailwind, component architecture, and UI best practices, recent PC games I play :) <br>⚡ Fun fact: I love organizing my code as much as I enjoy organizing playlists 🎧 and I'm into video games..<br>
 
 
 ## 🌐 Socials:
